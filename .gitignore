@@ -1,5 +1,14 @@
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+# Above combination will ignore all files without extension ###
+!makefile
 .DS_Store
 xcuserdata
 *.o
 codesnippets
 *.dsym
+.vscode
