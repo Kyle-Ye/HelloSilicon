@@ -16,6 +16,12 @@ Add the homework for 32 bit version of printdword.s - printword.s
 ## C06
 
 Add stackframe.s
+Add homework s2
+
+## C07
+
+> .S (capital S) stands for assembly code that must still pass through a pre-processor. That means it can have #include and #define among other macros. It can also be seeing as extension .sx.
+> . s (lower s) is pure assembly code that can be compiled into an object.
 
 # HelloSilicon
 
