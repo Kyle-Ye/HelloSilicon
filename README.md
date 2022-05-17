@@ -1,3 +1,18 @@
+# Update
+
+## C01
+
+Wrap the SDK in case Xcode is locationed at some path with space in it.
+
+```
+SDK := `xcrun -sdk macosx --show-sdk-path`
+echo "$(SDK)"
+```
+
+## C04
+
+Add the homework for 32 bit version of printdword.s - printword.s
+
 # HelloSilicon
 
 An introduction to assembly on Apple Silicon Macs.
