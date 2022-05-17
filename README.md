@@ -13,6 +13,10 @@ echo "$(SDK)"
 
 Add the homework for 32 bit version of printdword.s - printword.s
 
+## C06
+
+Add stackframe.s
+
 # HelloSilicon
 
 An introduction to assembly on Apple Silicon Macs.
